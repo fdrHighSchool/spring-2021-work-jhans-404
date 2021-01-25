@@ -1,8 +1,8 @@
 # FDR High School - AP CS A
 
-## Last Name:  
-## First Name: 
-## GitHub Username: 
+## Last Name: Hans
+## First Name: Joshua
+## GitHub Username: jhans-404
 
 
 ### General Workflow: 
