@@ -5,7 +5,7 @@
 ## GitHub Username: jhans-404
 
 
-### General Workflow: 
+### General Workflow:
 * Fill out the top of this form, commit and push it back to GitHub.
 * For each assignment,
   * `$ mkdir <assignment-number>-<topic>` (to be specified for each assignment)
@@ -15,5 +15,3 @@
 
 ### General Grading Rubric:
 ![rubric](rubric.png)
-
-just testing out how to pull
